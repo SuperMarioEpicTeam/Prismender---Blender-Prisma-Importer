@@ -1,6 +1,6 @@
 <img src="logo.png" alt="Prismender logo" width="150"/>
 
-# Prismender 1.0
+# Prismender
 
 A Blender add-on which lets you import your Prisma 3D Scene into your
 current Blender scene.

@@ -22,3 +22,4 @@ Walid, for writing down the add-on's code
 
 # Changelog
 11th September 2026 10:15PM - v1.0.0 - Initial Release
+11th September 2026 10:39PM - v1.0.1 - Implemented compatibility with Blender 3.3.21 LTS
